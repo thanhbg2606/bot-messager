@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+https://developers.facebook.com/docs/messenger-platform/get-started

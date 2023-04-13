@@ -8,6 +8,8 @@ gem "facebook-messenger", "~> 2.0", ">= 2.0.1"
 gem "mysql2", "~> 0.5"
 gem "puma", "~> 5.0"
 gem "rails", "~> 7.0.4"
+gem 'figaro'
+
 
 group :development, :test do
   gem "byebug", platforms: [:mri, :mingw, :x64_mingw]

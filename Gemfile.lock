@@ -80,6 +80,8 @@ GEM
       httparty (~> 0.13, >= 0.13.7)
       rack (>= 1.4.5)
     ffi (1.15.5)
+    figaro (1.2.0)
+      thor (>= 0.14.0, < 2)
     globalid (1.1.0)
       activesupport (>= 5.0)
     httparty (0.21.0)
@@ -202,6 +204,7 @@ DEPENDENCIES
   bootsnap (>= 1.4.4)
   byebug
   facebook-messenger (~> 2.0, >= 2.0.1)
+  figaro
   listen (~> 3.3)
   mysql2 (~> 0.5)
   pry-rails
